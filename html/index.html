@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+    <title>Advice Tweeter</title>
+
+    <style>
+        body {
+            background: rgb(2,0,36);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 61%, rgba(0,212,255,1) 100%);
+            font-family: "Lobster", Arial, Helvetica, sans-serif ;
+            text-align: center;
+            color: white;
+        }
+        h1 {
+            font-size: 500%;
+            line-height: 20%;
+        }
+        h2 {
+            font-size: 200%;
+        }
+        label {
+            font-size: 130%;
+        }
+        input {
+            font-size: 125%;
+        }
+        button {
+            font-size: 300%;
+            display:block;
+            height: 200px;
+            width: 200px;
+            border-radius: 50%;
+            border: 10px solid black;
+            margin: 0;
+            position: relative;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            text-align: center;
+            color: white;
+            background-color: black;
+        }
+        button:hover {
+            background-color: #ffff66; /* Green */
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Advice Tweeter</h1>
+    <h2>Making Twitter a Better and Safer Place</h2>
+
+    <div style="height:225px"></div>
+  
+    <form action="tweet_advice" method="get">
+        <button type="submit">Tweet</button>
+    </form>
+</body>
+</html>
