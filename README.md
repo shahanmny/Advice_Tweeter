@@ -1,5 +1,5 @@
 # Advice_Tweeter
-CS 355 Project
+### CS 355 Project
 
-Click a Button and Automatically Tweet Advice
-Uses the Twitter API and Advice Slip Api
+##### Click a Button and Automatically Tweet Advice
+##### Uses the Twitter API and Advice Slip Api
