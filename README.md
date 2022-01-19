@@ -7,7 +7,7 @@
 
 
 #### Home Page
-![Home Page](images/homepage.png)
+![Home Page](images/homepage.PNG)
 
 #### Output Example
-![Example](images/example.png)
+![Example](images/example.PNG)
