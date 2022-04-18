@@ -1,5 +1,5 @@
 # Advice_Tweeter
-### CS 355 Project
+### CS 355 - Internet and Web Technologies - Project
 
 ##### Click a Button and Automatically Tweet Random Piece of Advice
 ##### Uses the Twitter API (3-Legged OAuth) and Advice Slip Api
